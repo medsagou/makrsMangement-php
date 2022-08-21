@@ -1,0 +1,8 @@
+.display-detail {
+    padding: 2rem;
+}
+h1 {
+    background-color: hsl(210, 10%, 23%);
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
