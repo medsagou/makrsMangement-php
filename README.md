@@ -1,4 +1,4 @@
-# SAGOU MOHAMED - Manage students marks - project to improve
+# SAGOU MOHAMED - Manage students marks - project to improve (first version)
 
 This is a project from my.
 
@@ -40,9 +40,6 @@ About the project:
 ![](./screen33.JPG)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
