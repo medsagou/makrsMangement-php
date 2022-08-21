@@ -35,9 +35,9 @@ About the project:
 
 ### Screenshot
 
-![](./screen11.jpg)
-![](./screen22.jpg)
-![](./screen33.jpg)
+![](./screen11.JPG)
+![](./screen22.JPG)
+![](./screen33.JPG)
 
 ### Links
 
